@@ -1,0 +1,93 @@
+.rnp_package_category_button{
+	border:1px solid #fff !important;
+	color: #fff !important;
+}
+.rnp_province_button{
+	border:1px solid #fff !important;
+	color: #fff !important;
+}
+
+.rnp_tools_table{
+	padding-left: 20% !important;
+	padding-right: 20% !important;
+}
+
+.rnp_tools_table:hover{
+	background-color: #232323 !important;
+}
+
+.rnp_submit_cacti, .rnp_send_idea, .rnp_send_suggession, .rnp_send_cv{
+	width: 100% !important;
+}
+
+.rnp_wrapper{
+	text-align: center !important;
+}
+.rnp_list_tools{
+	display:inline-table !important;
+}
+
+.rnp_list_tools li{
+	display:inline !important;
+}
+
+.rnp_tool_item{
+	margin-bottom: 10px !important;
+}
+
+.rnp_language_link{
+	cursor: pointer !important;
+}
+
+.rtl_rnp_service_title{
+	text-align: center !important;
+}
+
+form#send_idea_form .form-control,
+form#send_suggession_form .form-control,
+form#send_cv_form .form-control {
+	margin-bottom: 0px !important;
+}
+
+div.socal_media ul li{
+	text-align: center !important;
+}
+
+.rnp_about_description{
+	text-align: justify !important;
+}
+
+.rnp_slider_caption{
+	top: 40% !important;
+}
+.selected {
+  z-index: 10;
+  width: 160px;
+  height: 24px;
+  padding: 0 20px;
+  font-size: 12px;
+  line-height: 25px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0px 2px 5px #888888;
+  background: #dc3545;
+  border-top: 1px solid #dc3545;
+  border-bottom: 1px solid #dc3545;
+  transform: rotate(45deg);
+  position: absolute;
+  right: -47px;
+  top: 17px;
+}
+
+.rnp_price_table_container {
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  overflow: hidden;
+}
+.custom-heading {
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+}
